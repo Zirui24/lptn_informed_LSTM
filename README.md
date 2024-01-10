@@ -42,9 +42,22 @@ To reproduce the results and visualizations, follow these steps:
    - Ensure you have a suitable GPU (tested with RTX2060) to run the hyperparameter searching which at the end of this nootboke, and that the estimated runtime of approximately 11.5 hours is acceptable for your setup.
 
 
-## Contributing
+## Contributing & Citing
 
 Contributions to the project are welcome. Please ensure to follow the existing code structure and document any changes or additions clearly.
+
+The lptn-informed LSTM is first introducted at (under review)
+```
+@ARTICLE{XXXXXXX,
+  author={xxxx},
+  journal={xxxx}, 
+  title={Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM}, 
+  year={xxx},
+  volume={xx},
+  number={xx},
+  pages={xxx},
+  }
+```
 
 ## License
 
