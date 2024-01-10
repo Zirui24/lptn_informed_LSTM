@@ -1,7 +1,8 @@
 # Temperature Estimation in PMSMs using LPTN-informed LSTM neural network
 
 This repository contains the implementation and results of a LPTN-informed LSTM for multi-node temperature estimation in PMSMs.
-![random operation]{python_LPTN_informed_LSTM/lptn_informed_LSTM.png}
+
+![random operation](./python_LPTN_informed_LSTM/lptn_informed_LSTM.png)
 ## Project Structure
 
 - `\dataset`: Temperature and operation states Dataset for the tested IPMSM.
@@ -12,9 +13,13 @@ This repository contains the implementation and results of a LPTN-informed LSTM 
 ## Results
 
 The project results include temperature estimations and errors for various components of the PMSM, along with operational parameters such as speed and torque over time. The results are visualized in two separate figures, each showing 10 subplots of temperature estimation results and errors with random operation and the Federal-Test-Procedure-75_driving_cycle (the driving cycle is not put in the manuscript).
-![random operation]{python_LPTN_informed_LSTM/Estimation_results_random_op.png}
+
+![random operation](./python_LPTN_informed_LSTM/Estimation_results_random_op.png)
+
 *Fig.1 Temperature Estimation results under random operation.
-![federal Test Procedure 75 cycle]{python_LPTN_informed_LSTM/Estimation_results_Federal-Test-Procedure-75_driving_cycle.png}
+
+![federal Test Procedure 75 cycle](./python_LPTN_informed_LSTM/Estimation_results_Federal-Test-Procedure-75_driving_cycle.png)
+
 *Fig.2 Temperature Estimation results under Federal-Test-Procedure-75_driving cycle.
 
 ### Speed and Torque Analysis
