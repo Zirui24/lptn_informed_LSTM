@@ -2,9 +2,9 @@
 
 This repository contains the implementation and results of a LPTN-informed LSTM for multi-node temperature estimation in PMSMs.
 
-** The simulation for PE condition validation and the overall 23.8 hours dataset is available in this repository. **
+**The simulation for PE condition validation and the overall 23.8 hours dataset is available in this repository.**
 
-** `lptn_informed_LSTM.ipynb` file will be uploaded once the manuscript is available in early access. In the interim, you can request a personal copy of the code file by emailing me directly or sending me a direct message.**
+**`lptn_informed_LSTM.ipynb` file will be uploaded once the manuscript is available in early access. In the interim, you can request a personal copy of the code file by emailing me directly or sending me a direct message.**
 
 ![random operation](./python_LPTN_informed_LSTM/lptn_informed_LSTM.png)
 ## Project Structure
