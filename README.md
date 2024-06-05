@@ -44,23 +44,24 @@ To reproduce the results and visualizations, follow these steps:
 
 1. Every code is in `lptn_informed_LSTM.ipynb` including the third-order LPTN, definition and training of LPTN-informed LSTM, hyperparameter searching .
    - Ensure you have a suitable GPU (tested with RTX2060) to run the hyperparameter searching which at the end of this nootboke, and that the estimated runtime of approximately 11.5 hours is acceptable for your setup.
-2. **The `lptn_informed_LSTM.ipynb` file will be uploaded once the manuscript is available in early access. In the interim, you can request a personal copy of the code file by emailing me directly or sending me a direct message.**
+2. **The `lptn_informed_LSTM.ipynb` file will be uploaded once the manuscript is available in early access.**
 
 ## Contributing & Citing
 
 Contributions to the project are welcome. Please ensure to follow the existing code structure and document any changes or additions clearly.
 
-The lptn-informed LSTM is first introducted at (under review)
+The lptn-informed LSTM is first introducted at (Early Access)
 ```
-@ARTICLE{XXXXXXX,
-  author={xxxx},
-  journal={xxxx}, 
-  title={Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM}, 
-  year={xxx},
-  volume={xx},
-  number={xx},
-  pages={xxx},
-  }
+@ARTICLE{10547453,
+  author={Liu, Zirui and Kong, Wubin and Fan, Xinggang and Li, Zimin and Peng, Kai and Qu, Ronghai},
+  journal={IEEE Transactions on Power Electronics}, 
+  title={Hybrid Thermal Modeling with LPTNInformed Neural Network for Multi-Node Temperature Estimation in PMSM}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Estimation;Parameter estimation;Temperature sensors;Mathematical models;Motors;Uncertainty;Long short term memory;Lumped-Parameter Thermal Network (LPTN);Long Short-Term Memory (LSTM);temperature estimation;parameter identification;PMSM},
+  doi={10.1109/TPEL.2024.3409388}}
 ```
 
 ## License
